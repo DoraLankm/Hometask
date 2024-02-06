@@ -21,3 +21,5 @@
 **git checkout name** - *перейти на ветку с именем name*
 
 **git merge** - *слияние веток*
+
+New string 
