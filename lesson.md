@@ -14,8 +14,8 @@
 
 ## Lesson2
 
-**git branch**
+**git branch** - *перечисляет существующие ветки* 
 
-**git checkout name**
+**git checkout name** - *перейти на ветку с именем name*
 
-**git merge**
+**git merge** - *слияние веток*
